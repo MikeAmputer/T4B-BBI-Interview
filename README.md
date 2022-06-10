@@ -6,4 +6,4 @@
 3. Чем отличается Dispose от деструктора?
 4. Что такое nullable reference types?
 5. Всегда ли value type объект размещается на стэке?
-6. 
+6. Что такое DI Container?
