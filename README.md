@@ -8,3 +8,4 @@
 4. Что такое nullable reference types?
 5. Всегда ли value type объект размещается на стэке?
 6. Что такое DI Container?
+7. Что такое cartesian explosion и как с этим бороться?
