@@ -1,4 +1,5 @@
 # T4B-BBI-Interview
+![plot](./Resources/joke.jpg)
 ## Part 1
 
 1. В чем разница между IQueryable и IEnumerable?
