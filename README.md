@@ -1,7 +1,6 @@
 # T4B-BBI-Interview
 ![plot](./Resources/joke.jpg)
 ### Part 1
-
 1. В чем разница между IQueryable и IEnumerable?
 2. Что такое record?
 3. Чем отличаются Dispose(), Finalize() и деструктор?
@@ -16,3 +15,7 @@
 2. Как называется паттерн?
 3. Что выведет код, если заменить Task.Run() на Task.FromResult()?
 4. Как лучше всего переписать код?
+
+#### [Code Sample 2](https://github.com/MikeAmputer/T4B-BBI-Interview/blob/main/CodeSamples/CodeSample-2/ChunkedAsyncEnumerator.cs)
+1. Что делает код?
+2. Как его можно использовать?
