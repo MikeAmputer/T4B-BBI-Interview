@@ -23,3 +23,6 @@
 1. Для чего нужен этот класс?
 2. Как его можно использовать?
 3. Что такое Task.Yield()?
+
+#### [Code Sample 3](https://github.com/MikeAmputer/T4B-BBI-Interview/blob/main/CodeSamples/CodeSample-3/Program.cs)
+1. Все ли в порядке в этом коде? Если нет, то что именно?
