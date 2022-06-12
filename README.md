@@ -2,12 +2,13 @@
 ![plot](./Resources/joke.jpg)
 ### Part 1
 1. В чем разница между IQueryable и IEnumerable?
-2. Что такое record?
-3. Чем отличаются Dispose(), Finalize() и деструктор?
-4. Что такое nullable reference types?
-5. Всегда ли value type объект размещается на стэке?
-6. Что такое DI Container?
-7. Что такое cartesian explosion и как с этим бороться?
+2. Что должен возвращать метод, использующий yield?
+3. Что такое record?
+4. Чем отличаются Dispose(), Finalize() и деструктор?
+5. Что такое nullable reference types?
+6. Всегда ли value type объект размещается на стэке?
+7. Что такое DI Container?
+8. Что такое cartesian explosion и как с этим бороться?
 
 ### Part 2
 #### [Code Sample 1](https://github.com/MikeAmputer/T4B-BBI-Interview/blob/main/CodeSamples/CodeSample-1/Program.cs)
