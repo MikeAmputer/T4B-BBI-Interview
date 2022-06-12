@@ -26,4 +26,7 @@
 3. Что такое Task.Yield()?
 
 #### [Code Sample 3](https://github.com/MikeAmputer/T4B-BBI-Interview/blob/main/CodeSamples/CodeSample-3/Program.cs)
-1. Все ли в порядке в этом коде? Если нет, то что именно?
+1. Как называется такой интерфейс (с type parameters)?
+2. Зачем нужны in и out в параметрах интерфейса?
+3. Что означает слово where в этом примере?
+4. Все ли в порядке в этом коде? Если нет, то что именно?
