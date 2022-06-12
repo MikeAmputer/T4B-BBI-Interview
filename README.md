@@ -10,6 +10,7 @@
 7. Что такое DI Container?
 8. Что такое cartesian explosion и как с этим бороться?
 
+![plot](./Resources/joke-2.jpg)
 ### Part 2
 #### [Code Sample 1](https://github.com/MikeAmputer/T4B-BBI-Interview/blob/main/CodeSamples/CodeSample-1/Program.cs)
 1. Что выведет код?
