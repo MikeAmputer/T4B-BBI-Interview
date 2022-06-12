@@ -4,7 +4,7 @@
 1. В чем разница между IQueryable и IEnumerable?
 2. Что должен возвращать метод, использующий yield?
 3. Что такое record?
-4. Чем отличаются Dispose(), Finalize() и деструктор?
+4. Чем отличаются Dispose(), Finalize() и деструктор? Всегда ли вызывается Finalize()?
 5. Что такое nullable reference types?
 6. Всегда ли value type объект размещается на стэке?
 7. Что такое DI Container?
