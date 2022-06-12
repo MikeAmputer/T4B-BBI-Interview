@@ -1,6 +1,6 @@
 # T4B-BBI-Interview
 ![plot](./Resources/joke.jpg)
-## Part 1
+### Part 1
 
 1. В чем разница между IQueryable и IEnumerable?
 2. Что такое record?
@@ -9,3 +9,10 @@
 5. Всегда ли value type объект размещается на стэке?
 6. Что такое DI Container?
 7. Что такое cartesian explosion и как с этим бороться?
+
+### Part 2
+#### [Code Sample 1](https://github.com/MikeAmputer/T4B-BBI-Interview/blob/main/CodeSamples/CodeSample-1/Program.cs)
+1. Что выведет код?
+2. Как называется паттерн?
+3. Что выведет код, если заменить Task.Run() на Task.FromResult()?
+4. Как лучше всего переписать код?
