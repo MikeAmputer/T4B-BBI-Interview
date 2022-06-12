@@ -13,5 +13,6 @@ class Deal
     public long Id { get; set; }
     public long UserId { get; set; }
     public virtual User? User { get; set; }
-    public decimal Profit { get; set; }
+    public DateTime DateTimeUtc { get; set; }
+    public decimal Volume { get; set; }
 }
