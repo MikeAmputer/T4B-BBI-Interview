@@ -9,6 +9,7 @@
 6. Всегда ли value type объект размещается на стэке?
 7. Что такое DI Container?
 8. Что такое cartesian explosion и как с этим бороться?
+9. Как написать unit-тесты на код с запросами в базу?
 
 ![plot](./Resources/joke-2.jpg)
 ### Part 2
@@ -21,3 +22,4 @@
 #### [Code Sample 2](https://github.com/MikeAmputer/T4B-BBI-Interview/blob/main/CodeSamples/CodeSample-2/ChunkedAsyncEnumerator.cs)
 1. Для чего нужен этот класс?
 2. Как его можно использовать?
+3. Что такое Task.Yield()?
