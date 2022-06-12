@@ -17,5 +17,5 @@
 4. Как лучше всего переписать код?
 
 #### [Code Sample 2](https://github.com/MikeAmputer/T4B-BBI-Interview/blob/main/CodeSamples/CodeSample-2/ChunkedAsyncEnumerator.cs)
-1. Что делает код?
+1. Для чего нужен этот класс?
 2. Как его можно использовать?
