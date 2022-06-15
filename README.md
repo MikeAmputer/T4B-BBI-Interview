@@ -9,8 +9,9 @@
 6. Что такое nullable reference types?
 7. Всегда ли value type объект размещается на стэке?
 8. Что такое DI Container?
-9. Что такое cartesian explosion и как с этим бороться?
-10. Как написать unit-тесты на код с запросами в базу?
+9. Зачем нужен CancellationToken?
+10. Что такое cartesian explosion и как с этим бороться?
+11. Как написать unit-тесты на код с запросами в базу?
 
 ![plot](./Resources/joke-2.jpg)
 ### Part 2
